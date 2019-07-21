@@ -1,0 +1,12 @@
+.one{
+	width: 300px;
+	height: 100px;
+	background-color: yellow;
+	border: 2px solid black;
+	background-position: center;
+}
+.one .two{
+	height: 100px;
+	line-height: 100px;
+	font-size: 20px;
+}
